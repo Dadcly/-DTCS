@@ -2,10 +2,10 @@
 Practical works
 
 
-- [1st lab](labs/lab1)
-- [2st lab](labs/lab2)
-- [3st lab](labs/lab3)
-- [4st lab](labs/lab4)
+- [1st lab](labs/lab1_v7)
+- [2st lab](labs/lab2_v7)
+- [3st lab](labs/lab3_v7)
+- [4st lab](labs/lab4_v7)
 - [5st lab](labs/lab5)
 - [6st lab](labs/lab6)
 - [7st lab](labs/lab7)
