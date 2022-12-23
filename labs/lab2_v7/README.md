@@ -1,4 +1,4 @@
-## 1 lab
+## 2 lab
 
 ![Sample player](pictures/Screenshot_1.2.png)
 
