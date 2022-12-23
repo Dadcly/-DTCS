@@ -1,5 +1,7 @@
 ## 2 lab
 
+###У цій практичній роботі була виконана розробка типовиї посадочних місць компонентів засобами P-CAD.
+
 ![Sample player](pictures/Screenshot_1.2.png)
 
 ![Sample player](pictures/Screenshot_1.1.png)
