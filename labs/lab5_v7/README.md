@@ -1,6 +1,6 @@
 ## 5 lab
 
-###У цій практичній роботі було виконано імпорт проекту P-CAD у Altium Designer.
+### У цій практичній роботі було виконано імпорт проекту P-CAD у Altium Designer.
 
 ![Sample player](pictures/Screenshot_1.png)
 
